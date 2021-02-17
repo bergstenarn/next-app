@@ -2,7 +2,7 @@
 id: 3
 name: Macbook Pro
 description: The best computer
-price: 2000000
+price: 100
 ---
 
 Cupidatat occaecat occaecat occaecat nulla esse tempor nulla ut incididunt id mollit laboris. Quis in ipsum eiusmod consequat in. Commodo consectetur exercitation veniam veniam voluptate cillum cupidatat consequat eiusmod magna nostrud. Eiusmod esse proident tempor culpa. Ad ea quis dolor enim consectetur ad non.

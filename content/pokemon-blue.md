@@ -2,7 +2,7 @@
 id: 4
 name: Pokemon blue
 description: The best Pokemon game that contains all 151 Pokemon
-price: 2000
+price: 150
 ---
 
 Do ad cillum esse consequat aute exercitation proident velit anim. Magna ad et quis dolor exercitation elit ipsum elit esse nisi incididunt minim ut est. Anim consectetur labore labore esse incididunt et quis nostrud labore proident. Excepteur officia duis occaecat est id tempor tempor veniam reprehenderit. Deserunt pariatur commodo elit voluptate id laboris aliqua incididunt ex reprehenderit nostrud velit proident ex. Sint ullamco deserunt mollit pariatur ad nulla minim aliqua minim.

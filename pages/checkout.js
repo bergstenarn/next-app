@@ -66,14 +66,14 @@ const Checkout = () => {
                   <span>
                     {item.qty}x {item.name}
                   </span>
-                  <span>${item.price / 100}</span>
+                  <span>{item.price / 100}€</span>
                 </Item>
               );
             })}
           </Ul>
           <Total>
             <span>Total</span>
-            <span>${total / 100}</span>
+            <span>{total / 100}€</span>
           </Total>
           <Button onClick={processPayment}>Process Payment</Button>
         </>

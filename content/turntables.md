@@ -2,7 +2,7 @@
 id: 5
 name: Turntables
 description: A record player for dope scratching
-price: 550000
+price: 120
 ---
 
 Cupidatat occaecat occaecat occaecat nulla esse tempor nulla ut incididunt id mollit laboris. Quis in ipsum eiusmod consequat in. Commodo consectetur exercitation veniam veniam voluptate cillum cupidatat consequat eiusmod magna nostrud. Eiusmod esse proident tempor culpa. Ad ea quis dolor enim consectetur ad non.

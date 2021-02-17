@@ -2,7 +2,7 @@
 id: 1
 name: Basketball hoop
 description: A ring and backboard for fun times!
-price: 26000
+price: 260
 ---
 
 Fugiat ad esse aute ipsum sit minim velit cupidatat eu laboris laborum dolor laborum. Amet adipisicing duis laboris elit commodo ad eu Lorem non nisi est irure veniam do. Ullamco aliquip ut fugiat est duis nostrud sunt dolore officia dolore labore incididunt.

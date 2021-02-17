@@ -2,7 +2,7 @@
 id: 2
 name: Cooking classes
 description: A great way to learn delicious things and meet people
-price: 20000
+price: 200
 ---
 
 Excepteur consequat labore eiusmod nulla nostrud deserunt reprehenderit sint labore anim est id consectetur culpa. Sint voluptate enim exercitation laboris fugiat sunt sunt aliquip quis nisi. Ut commodo occaecat irure occaecat in ipsum in excepteur.
